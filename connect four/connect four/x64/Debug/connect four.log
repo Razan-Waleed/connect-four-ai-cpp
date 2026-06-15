@@ -1,0 +1,3 @@
+﻿  AI.cpp
+C:\Users\HP\Downloads\Update 2-2\Update 2\Update 2\first algo\connect four\connect four\AI.cpp(10,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  connect four.vcxproj -> C:\Users\HP\Downloads\Update 2-2\Update 2\Update 2\first algo\connect four\x64\Debug\connect four.exe
